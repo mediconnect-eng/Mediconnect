@@ -151,3 +151,5 @@ For support, email support@mediconnect.health or join our Slack channel.
 
 ---
 Built with ❤️ for accessible healthcare in Kenya
+
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/mediconnect-eng/Mediconnect?utm_source=oss&utm_medium=github&utm_campaign=mediconnect-eng%2FMediconnect&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
